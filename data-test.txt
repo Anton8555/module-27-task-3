@@ -1,0 +1,12 @@
+<Glava1
+3
+Petya
+2 Kolya Fedya
+Georgii
+4 Master1 Kiril Juliya Daniil
+Kostya
+3 Nastya Sveta Ksusha
+>
+---------------------------------------------------------------------
+скопировать и вставить в консоль.
+
